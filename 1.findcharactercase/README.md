@@ -44,3 +44,6 @@ The input character is not an alphabet, so the output is `-1`.
 
 ### Hint:
 Can you check in which range of characters `CH` lie to check its type?
+
+###### Ascii table
+![ascii table]("1.findcharactercase/ascii-table-.png")
