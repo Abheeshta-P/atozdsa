@@ -1,4 +1,6 @@
 #include <cmath>
+#include<bits/stdc++.h>
+using namespace std;
 double areaSwitchCase(int ch, vector<double> a) {
 	//additional info a.size() gives size of vector
         switch(ch){
