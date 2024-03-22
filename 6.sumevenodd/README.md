@@ -27,3 +27,9 @@ The first line contains an integer 'n'.
 ### Output Format
 
 In a single line, print two space-separated integers: first, the sum of even digits and then the sum of odd digits.
+
+## Approch
+
+- used a while loop to go through the each digit in number
+- used modulus operator to get last digit and remove that digit by dividing by 10
+- If the digit is even add that to even sum or else odd sum
