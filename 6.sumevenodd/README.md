@@ -28,7 +28,7 @@ The first line contains an integer 'n'.
 
 In a single line, print two space-separated integers: first, the sum of even digits and then the sum of odd digits.
 
-## Approch
+## Approach
 
 - used a while loop to go through the each digit in number
 - used modulus operator to get last digit and remove that digit by dividing by 10
